@@ -17,3 +17,24 @@
 
   http://www.imparareaprogrammare.it
 */
+
+/*
+var cats = 11;
+
+var inLine = 2;
+
+var numLines = Math.ceil(cats/inLine);
+
+var missing = (numLines*inLine)-cats;
+
+console.log(numLines);
+
+console.log(missing);
+*/
+
+
+
+
+
+
+
